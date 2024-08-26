@@ -1,0 +1,168 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <settings>
+    <preloader image="images/_50M0991.jpg?t=1724494853" />
+    <userInterface showProgressPulse="true" showZoomButtons="true" showToolTips="true" showHotspotsButton="true" showFullScreenButton="true" showTogglePlayButton="true" showArrows="true" toolbarAlign="center" toolbarBackColor="transparent" toolbarHoverColor="#808285" toolbarForeColor="#A7A9AE" toolbarBackAlpha="0" toolbarAlpha="1" showProgressNumbers="true" showFullScreenToolbar="false" fullScreenBackColor="#FFFFFF" toolbarPosition="0" customCursorClass="zoom_cursor" viewerHint="" toolbarAutohide="false" showToolbarOnLoadStart="false" showProgressBar="true" skin="basic" />
+    <control dragSpeed="0.13" doubleClickZooms="true" disableMouseControl="false" showHighresOnFullScreen="true" mouseHoverDrag="false" hideHotspotsOnLoad="false" hideHotspotsOnZoom="true" rowSensitivity="15" dragSensitivity="10" inBrowserFullScreen="false" doubleClickFullscreen="false" zoomSteps="1" zoomSpeed="300" singleClickZooms="false" pauseOnPreload="false" resumePreloadOnHover="false" mouseWheelDrag="false" mouseWheelDragZoomOnly="false" allowRotateInputInZoom="false" allowPanX="true" allowPanY="true" dragAcceleration="1" centerZoom="false" maxZoom="100" />
+    <rotation firstImage="0" rotate="false" rotatePeriod="7" bounce="false" rotateDirection="-1" forceDirection="false" inertiaRelToDragSpeed="true" inertiaTimeToStop="700" inertiaMaxInterval="120" useInertia="true" flipHorizontalInput="false" flipVerticalInput="false" bounceRows="true" rowsOnSingleIndex="false" flipAxis="false" spinOnPageScroll="false" pageScrollFollow="false" pageScrollDelay="300" pageScrollPeriod="3" autoPlayOnDragRelease="false" />
+  </settings>
+  <hotspots />
+  <images rows="1" highresWidth="1333" highresHeight="1999">
+    <image src="images/_50M0991.jpg?t=1724494853">
+      <highres src="images/highres/_50M0991.jpg?t=1724494853" />
+    </image>
+    <image src="images/_50M0992.jpg?t=1724494853">
+      <highres src="images/highres/_50M0992.jpg?t=1724494853" />
+    </image>
+    <image src="images/_50M0993.jpg?t=1724494853">
+      <highres src="images/highres/_50M0993.jpg?t=1724494853" />
+    </image>
+    <image src="images/_50M0994.jpg?t=1724494853">
+      <highres src="images/highres/_50M0994.jpg?t=1724494853" />
+    </image>
+    <image src="images/_50M0995.jpg?t=1724494853">
+      <highres src="images/highres/_50M0995.jpg?t=1724494853" />
+    </image>
+    <image src="images/_50M0996.jpg?t=1724494853">
+      <highres src="images/highres/_50M0996.jpg?t=1724494853" />
+    </image>
+    <image src="images/_50M0997.jpg?t=1724494853">
+      <highres src="images/highres/_50M0997.jpg?t=1724494853" />
+    </image>
+    <image src="images/_50M0998.jpg?t=1724494853">
+      <highres src="images/highres/_50M0998.jpg?t=1724494853" />
+    </image>
+    <image src="images/_50M0999.jpg?t=1724494853">
+      <highres src="images/highres/_50M0999.jpg?t=1724494853" />
+    </image>
+    <image src="images/_50M1000.jpg?t=1724494853">
+      <highres src="images/highres/_50M1000.jpg?t=1724494853" />
+    </image>
+    <image src="images/_50M1001.jpg?t=1724494853">
+      <highres src="images/highres/_50M1001.jpg?t=1724494853" />
+    </image>
+    <image src="images/_50M1002.jpg?t=1724494853">
+      <highres src="images/highres/_50M1002.jpg?t=1724494853" />
+    </image>
+    <image src="images/_50M1003.jpg?t=1724494853">
+      <highres src="images/highres/_50M1003.jpg?t=1724494853" />
+    </image>
+    <image src="images/_50M1004.jpg?t=1724494853">
+      <highres src="images/highres/_50M1004.jpg?t=1724494853" />
+    </image>
+    <image src="images/_50M1005.jpg?t=1724494853">
+      <highres src="images/highres/_50M1005.jpg?t=1724494853" />
+    </image>
+    <image src="images/_50M1006.jpg?t=1724494853">
+      <highres src="images/highres/_50M1006.jpg?t=1724494853" />
+    </image>
+    <image src="images/_50M1007.jpg?t=1724494853">
+      <highres src="images/highres/_50M1007.jpg?t=1724494853" />
+    </image>
+    <image src="images/_50M1008.jpg?t=1724494853">
+      <highres src="images/highres/_50M1008.jpg?t=1724494853" />
+    </image>
+    <image src="images/_50M1009.jpg?t=1724494853">
+      <highres src="images/highres/_50M1009.jpg?t=1724494853" />
+    </image>
+    <image src="images/_50M1010.jpg?t=1724494853">
+      <highres src="images/highres/_50M1010.jpg?t=1724494853" />
+    </image>
+    <image src="images/_50M1011.jpg?t=1724494853">
+      <highres src="images/highres/_50M1011.jpg?t=1724494853" />
+    </image>
+    <image src="images/_50M1012.jpg?t=1724494853">
+      <highres src="images/highres/_50M1012.jpg?t=1724494853" />
+    </image>
+    <image src="images/_50M1013.jpg?t=1724494853">
+      <highres src="images/highres/_50M1013.jpg?t=1724494853" />
+    </image>
+    <image src="images/_50M1014.jpg?t=1724494853">
+      <highres src="images/highres/_50M1014.jpg?t=1724494853" />
+    </image>
+    <image src="images/_50M1015.jpg?t=1724494853">
+      <highres src="images/highres/_50M1015.jpg?t=1724494853" />
+    </image>
+    <image src="images/_50M1016.jpg?t=1724494853">
+      <highres src="images/highres/_50M1016.jpg?t=1724494853" />
+    </image>
+    <image src="images/_50M1017.jpg?t=1724494853">
+      <highres src="images/highres/_50M1017.jpg?t=1724494853" />
+    </image>
+    <image src="images/_50M1018.jpg?t=1724494853">
+      <highres src="images/highres/_50M1018.jpg?t=1724494853" />
+    </image>
+    <image src="images/_50M1019.jpg?t=1724494853">
+      <highres src="images/highres/_50M1019.jpg?t=1724494853" />
+    </image>
+    <image src="images/_50M1020.jpg?t=1724494853">
+      <highres src="images/highres/_50M1020.jpg?t=1724494853" />
+    </image>
+    <image src="images/_50M1021.jpg?t=1724494853">
+      <highres src="images/highres/_50M1021.jpg?t=1724494853" />
+    </image>
+    <image src="images/_50M1022.jpg?t=1724494853">
+      <highres src="images/highres/_50M1022.jpg?t=1724494853" />
+    </image>
+    <image src="images/_50M1023.jpg?t=1724494853">
+      <highres src="images/highres/_50M1023.jpg?t=1724494853" />
+    </image>
+    <image src="images/_50M1024.jpg?t=1724494853">
+      <highres src="images/highres/_50M1024.jpg?t=1724494853" />
+    </image>
+    <image src="images/_50M1025.jpg?t=1724494853">
+      <highres src="images/highres/_50M1025.jpg?t=1724494853" />
+    </image>
+    <image src="images/_50M1026.jpg?t=1724494853">
+      <highres src="images/highres/_50M1026.jpg?t=1724494853" />
+    </image>
+    <image src="images/_50M1027.jpg?t=1724494853">
+      <highres src="images/highres/_50M1027.jpg?t=1724494853" />
+    </image>
+    <image src="images/_50M1028.jpg?t=1724494853">
+      <highres src="images/highres/_50M1028.jpg?t=1724494853" />
+    </image>
+    <image src="images/_50M1029.jpg?t=1724494853">
+      <highres src="images/highres/_50M1029.jpg?t=1724494853" />
+    </image>
+    <image src="images/_50M1030.jpg?t=1724494853">
+      <highres src="images/highres/_50M1030.jpg?t=1724494853" />
+    </image>
+    <image src="images/_50M1031.jpg?t=1724494853">
+      <highres src="images/highres/_50M1031.jpg?t=1724494853" />
+    </image>
+    <image src="images/_50M1032.jpg?t=1724494853">
+      <highres src="images/highres/_50M1032.jpg?t=1724494853" />
+    </image>
+    <image src="images/_50M1033.jpg?t=1724494853">
+      <highres src="images/highres/_50M1033.jpg?t=1724494853" />
+    </image>
+    <image src="images/_50M1034.jpg?t=1724494853">
+      <highres src="images/highres/_50M1034.jpg?t=1724494853" />
+    </image>
+    <image src="images/_50M1035.jpg?t=1724494853">
+      <highres src="images/highres/_50M1035.jpg?t=1724494853" />
+    </image>
+    <image src="images/_50M1036.jpg?t=1724494853">
+      <highres src="images/highres/_50M1036.jpg?t=1724494853" />
+    </image>
+    <image src="images/_50M1037.jpg?t=1724494853">
+      <highres src="images/highres/_50M1037.jpg?t=1724494853" />
+    </image>
+    <image src="images/_50M1038.jpg?t=1724494853">
+      <highres src="images/highres/_50M1038.jpg?t=1724494853" />
+    </image>
+    <image src="images/_50M1039.jpg?t=1724494853">
+      <highres src="images/highres/_50M1039.jpg?t=1724494853" />
+    </image>
+    <image src="images/_50M1040.jpg?t=1724494853">
+      <highres src="images/highres/_50M1040.jpg?t=1724494853" />
+    </image>
+    <image src="images/_50M1041.jpg?t=1724494853">
+      <highres src="images/highres/_50M1041.jpg?t=1724494853" />
+    </image>
+    <image src="images/_50M1043.jpg?t=1724494853">
+      <highres src="images/highres/_50M1043.jpg?t=1724494853" />
+    </image>
+  </images>
+</config>
